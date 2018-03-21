@@ -1,2 +1,2 @@
 # Windsor-Courses
-Assignments completed
+Assignments and labs completed
